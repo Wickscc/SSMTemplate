@@ -36,4 +36,4 @@ hs_err_pid*
 JDBCPool.iml
 out/
 .idea/vcs.xml
-target/
+target/classes
